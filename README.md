@@ -141,7 +141,7 @@ for instructions and the project rubric.
 ## Hints!
 
 * You don't have to follow this directory structure, but if you do, your work
-  will span all of the .cpp files here. Keep an eye out for TODOs.
+  will span all of the .cpp files here. Keep an eye out for **TODOs**.
 
 ## Call for IDE Profiles Pull Requests
 
