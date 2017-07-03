@@ -63,7 +63,7 @@ The resulted gif is as below.
   <tr>
     <th>
       <p align="center">
-       <img src="./img/final.gif" alt="Overview" width="60%">
+       <img src="./img/final.gif" alt="Overview" width="50%">
       </p>
     </th>
   </tr>
